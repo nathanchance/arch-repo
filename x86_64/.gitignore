@@ -1,1 +1,6 @@
 !*.tar.*
+# This package is much larger than any other package in this folder,
+# so don't add it to the repo, but allow it to live in this folder
+# for easy installation on my main workstation. It can always be
+# downloaded to other devices manually on demand.
+gdb-multiarch*.tar.zst
